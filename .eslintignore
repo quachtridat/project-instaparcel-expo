@@ -1,0 +1,15 @@
+/build/**
+/coverage/**
+/docs/**
+/.expo-shared/**
+/jsdoc/**
+/node_modules/**
+/templates/**
+/tests/bench/**
+/tests/fixtures/**
+/tests/performance/**
+/tmp/**
+/tools/internal-rules/node_modules/**
+/.vscode/**
+test.js
+!.eslintrc.js
